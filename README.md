@@ -1,3 +1,3 @@
 # To-do-list
 
-Html, Css and JavaScript code for a simple To-do List
+Html, Css and JavaScript code for a To-do List
